@@ -11,6 +11,7 @@ Ce module contient les constantes du projet
 
 // Constantes
 // Choix du menu
+// this is a test
 #define CHARGER           1
 #define AFFICHER          2
 #define ANALYSER          3
